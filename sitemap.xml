@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/study/index.html</loc>
+    
+    <lastmod>2018-03-27T12:45:52.680Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E5%AD%A6%E4%B9%A0/index-2.html</loc>
+    
+    <lastmod>2018-03-27T12:45:47.075Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E5%AD%A6%E4%B9%A0/index-1.html</loc>
+    
+    <lastmod>2018-03-27T12:45:34.900Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E5%AD%A6%E4%B9%A0/index.html</loc>
+    
+    <lastmod>2018-03-27T12:45:31.890Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/03/24/Hello-Hexo/</loc>
     
     <lastmod>2018-03-25T08:28:27.628Z</lastmod>
